@@ -1,16 +1,3 @@
-# big_red_eats
+# Big Red Eats
 
-Eateries by AppDev clone, basically.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hi there! Big Red Eats is essentially a clone of [Cornell AppDev's](https://www.cornellappdev.com/apps) Eatery App, except that BRE is written entirely in Dart utilizing the Flutter SDK for cross-platform development. I'm working on this project primarily as a means of improving my programming skills, so I don't believe you'll find intelligently-written code in it. There is no documentation. Yeah.
